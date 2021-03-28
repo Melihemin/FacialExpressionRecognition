@@ -11,7 +11,7 @@ Facial Expression Recognition (FER) with its new version supported with 7 differ
 Let's show you a few test results we did for you :)
 
 #### Predict
-![Picture](https://i.hizliresim.com/mBgHXO.png)
+![Picture](https://i.hizliresim.com/mBgHXO.png) <br>
 ![Result](https://i.hizliresim.com/A5r0Tb.png)
 
 ## Example
